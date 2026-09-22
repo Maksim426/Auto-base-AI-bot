@@ -4,6 +4,6 @@
   "author": "Maxim",
   "description": "Автономный ИИ, который сам строит базу, добывает ресурсы и защищает ядро.",
   "version": "1.0",
-  "minGameVersion": "136",
+  "minGameVersion": "160",
   "main": "main.js"
 }
